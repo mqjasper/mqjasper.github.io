@@ -1,15 +1,10 @@
-# Bootstrap starter
+# Ruffle testing
 
-Include [Bootstrap](https://getbootstrap.com) CSS and JS via the [jsDelivr CDN](https://www.jsdelivr.com/package/npm/bootstrap).
-
-## Edit in browser
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main/starter?file=index.html)
+Bootstrap starter with plenty of help from this repo [here](https://github.com/n0samu/n0samu.github.io/) to get it running in github pages.
 
 ## Download
 
 ```sh
-git clone https://github.com/twbs/examples.git
-cd examples/starter/
+git clone https://github.com/mqjasper/mqjasper.github.io.git
 open index.html
 ```
